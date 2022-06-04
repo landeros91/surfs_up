@@ -10,3 +10,5 @@ The purpose of this projects is to analyze and review the temperature for the mo
 - There is not much of a difference in December weather to June. One main difference is that the coldest it gets is 56 degrees. Everything else remains roughly in the 70's
 
 ![](https://github.com/landeros91/surfs_up/blob/main/Dec.png)
+
+- Seems that the weather is good to enjoy some ice cream the majority of the time.
