@@ -14,4 +14,5 @@ The purpose of this projects is to analyze and review the temperature for the mo
 - Seems that the weather is good to enjoy some ice cream the majority of the time.
 
 ## Summary
+We can see that we throughout the 12 months, it is in the mid to high 70s
 ![](https://github.com/landeros91/surfs_up/blob/main/temp.png)
